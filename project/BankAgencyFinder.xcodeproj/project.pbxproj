@@ -9,7 +9,7 @@
 /* Begin PBXBuildFile section */
 		439C05F023E4C22100E69008 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 439C05EF23E4C22100E69008 /* AppDelegate.swift */; };
 		439C05F223E4C22100E69008 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 439C05F123E4C22100E69008 /* SceneDelegate.swift */; };
-		439C05F423E4C22100E69008 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 439C05F323E4C22100E69008 /* ViewController.swift */; };
+		439C05F423E4C22100E69008 /* MainViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 439C05F323E4C22100E69008 /* MainViewController.swift */; };
 		439C05F723E4C22100E69008 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 439C05F523E4C22100E69008 /* Main.storyboard */; };
 		439C05FA23E4C22100E69008 /* BankAgencyFinder.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 439C05F823E4C22100E69008 /* BankAgencyFinder.xcdatamodeld */; };
 		439C05FC23E4C22200E69008 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 439C05FB23E4C22200E69008 /* Assets.xcassets */; };
@@ -31,7 +31,7 @@
 		439C05EC23E4C22100E69008 /* BankAgencyFinder.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BankAgencyFinder.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		439C05EF23E4C22100E69008 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		439C05F123E4C22100E69008 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		439C05F323E4C22100E69008 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		439C05F323E4C22100E69008 /* MainViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainViewController.swift; sourceTree = "<group>"; };
 		439C05F623E4C22100E69008 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		439C05F923E4C22100E69008 /* BankAgencyFinder.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = BankAgencyFinder.xcdatamodel; sourceTree = "<group>"; };
 		439C05FB23E4C22200E69008 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -83,7 +83,7 @@
 			children = (
 				439C05EF23E4C22100E69008 /* AppDelegate.swift */,
 				439C05F123E4C22100E69008 /* SceneDelegate.swift */,
-				439C05F323E4C22100E69008 /* ViewController.swift */,
+				439C05F323E4C22100E69008 /* MainViewController.swift */,
 				439C05F523E4C22100E69008 /* Main.storyboard */,
 				439C05FB23E4C22200E69008 /* Assets.xcassets */,
 				439C05FD23E4C22200E69008 /* LaunchScreen.storyboard */,
@@ -204,7 +204,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				439C05FA23E4C22100E69008 /* BankAgencyFinder.xcdatamodeld in Sources */,
-				439C05F423E4C22100E69008 /* ViewController.swift in Sources */,
+				439C05F423E4C22100E69008 /* MainViewController.swift in Sources */,
 				439C05F023E4C22100E69008 /* AppDelegate.swift in Sources */,
 				439C05F223E4C22100E69008 /* SceneDelegate.swift in Sources */,
 			);
